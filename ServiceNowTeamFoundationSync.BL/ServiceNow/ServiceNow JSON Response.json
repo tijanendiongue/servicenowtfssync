@@ -1,0 +1,262 @@
+{
+  "result": [
+    {
+      "u_fet_company2.u_product_line": null,
+      "short_description": "testing put command",
+      "u_fet_company2": "",
+      "u_module3": "",
+      "assignment_group": "",
+      "u_fet_company2.u_segment": null,
+      "cmdb_ci": "",
+      "description": "test enhancement ",
+      "priority": "4 - Low",
+      "number": "ENHC0010001",
+      "sys_id": "078ece4d0fa3e100b39446ace1050e71",
+      "correlation_id": "",
+      "state": "Draft",
+      "work_notes": "",
+      "assigned_to": "",
+      "u_change_request": ""
+    },
+    {
+      "u_fet_company2.u_product_line": null,
+      "short_description": "Setup FET\\svcprod.nav2017 Active Directoy permission for regestering SPNs",
+      "u_fet_company2": "",
+      "u_module3": "",
+      "assignment_group": "",
+      "u_fet_company2.u_segment": null,
+      "cmdb_ci": {
+        "display_value": "Active Directory",
+        "link": "https://fettest.service-now.com/api/now/table/cmdb_ci/76bfc8a00fa6a100014d5d78a1050ec1"
+      },
+      "description": "As part of preparing production environment for NAV 2017 at German DC, an active directory account FET\\svcprod.nav2017 needs additional permission to register SPNs.",
+      "priority": "3 - Medium",
+      "number": "ENHC0010018",
+      "sys_id": "3c2d31a4377197007aa19b7a93990ee6",
+      "correlation_id": "",
+      "state": "Draft",
+      "work_notes": "",
+      "assigned_to": "",
+      "u_change_request": ""
+    },
+    {
+      "u_fet_company2.u_product_line": "Subsea",
+      "short_description": "Mass Load Final Destination Values",
+      "u_fet_company2": {
+        "display_value": "Forum Dynacon",
+        "link": "https://fettest.service-now.com/api/now/table/core_company/b16501e90f3b9200797e6798b1050ea9"
+      },
+      "u_module3": {
+        "display_value": "Financial Management",
+        "link": "https://fettest.service-now.com/api/now/table/u_system_module/da6349a90f3b9200797e6798b1050e44"
+      },
+      "assignment_group": {
+        "display_value": "Navision Support",
+        "link": "https://fettest.service-now.com/api/now/table/sys_user_group/ecbcebb80f372100014d5d78a1050ec9"
+      },
+      "u_fet_company2.u_segment": "Drilling & Subsea",
+      "cmdb_ci": {
+        "display_value": "NAV 13 Support",
+        "link": "https://fettest.service-now.com/api/now/table/cmdb_ci/7ebfc8a00fa6a100014d5d78a1050ebf"
+      },
+      "description": "Please load the Final Destination Values.  Use the same Final Destination Values that the USDC uses.",
+      "priority": "4 - Low",
+      "number": "ENHC0010019",
+      "sys_id": "220a111cdb0a930033e7eda5ca9619ef",
+      "correlation_id": "",
+      "state": "Draft",
+      "work_notes": "",
+      "assigned_to": "",
+      "u_change_request": ""
+    },
+    {
+      "u_fet_company2.u_product_line": "Valves Solutions",
+      "short_description": "SA-06 Sales Return Order",
+      "u_fet_company2": {
+        "display_value": "Forum Arabia",
+        "link": "https://fettest.service-now.com/api/now/table/core_company/5908fef2dbdd72009bd0ff961d961910"
+      },
+      "u_module3": {
+        "display_value": "Sales & Marketing",
+        "link": "https://fettest.service-now.com/api/now/table/u_system_module/d66349a90f3b9200797e6798b1050e45"
+      },
+      "assignment_group": "",
+      "u_fet_company2.u_segment": "Production and Infrastructure",
+      "cmdb_ci": {
+        "display_value": "NAV 13 Support",
+        "link": "https://fettest.service-now.com/api/now/table/cmdb_ci/7ebfc8a00fa6a100014d5d78a1050ebf"
+      },
+      "description": "The VAT will print based off the Currency Code set on the Foreign tab on the Sales document. It cannot be changed.\r\nVAT is required to be setup for the Sales document to calculate as desired.",
+      "priority": "4 - Low",
+      "number": "ENHC0010020",
+      "sys_id": "5e6aabd4db0e930033e7eda5ca9619dc",
+      "correlation_id": "",
+      "state": "Draft",
+      "work_notes": "",
+      "assigned_to": "",
+      "u_change_request": ""
+    },
+    {
+      "u_fet_company2.u_product_line": "Financial",
+      "short_description": "PMO - Nav 2013 Auto emailing of customer invoices",
+      "u_fet_company2": {
+        "display_value": "Parent",
+        "link": "https://fettest.service-now.com/api/now/table/core_company/356501e90f3b9200797e6798b1050ea0"
+      },
+      "u_module3": {
+        "display_value": "Financial Management",
+        "link": "https://fettest.service-now.com/api/now/table/u_system_module/da6349a90f3b9200797e6798b1050e44"
+      },
+      "assignment_group": "",
+      "u_fet_company2.u_segment": "Corporate",
+      "cmdb_ci": {
+        "display_value": "NAV 13 Support",
+        "link": "https://fettest.service-now.com/api/now/table/cmdb_ci/7ebfc8a00fa6a100014d5d78a1050ebf"
+      },
+      "description": "In the billing department we are needing Nav 13 to email customer invoices automatically.  ADI on Nav 05 has this functionality currently.  We have over 100 customers that requires FET to email invoices to their AP department.  If we can get Nav 13 to send out invoices automatically we can increase our customer base to accept email invoices which will decrease our DSO and increasing our cash flow.  ",
+      "priority": "1 - Critical",
+      "number": "ENHC0010021",
+      "sys_id": "261befdcdb0e930033e7eda5ca9619b5",
+      "correlation_id": "",
+      "state": "Draft",
+      "work_notes": "",
+      "assigned_to": "",
+      "u_change_request": ""
+    },
+    {
+      "u_fet_company2.u_product_line": "Downhole",
+      "short_description": "Testing Bug Enhancement Option 1",
+      "u_fet_company2": {
+        "display_value": "Cannon Services",
+        "link": "https://fettest.service-now.com/api/now/table/core_company/041160150fdd820075e35d78a1050e93"
+      },
+      "u_module3": {
+        "display_value": "Inventory",
+        "link": "https://fettest.service-now.com/api/now/table/u_system_module/de6349a90f3b9200797e6798b1050e44"
+      },
+      "assignment_group": "",
+      "u_fet_company2.u_segment": "Completions",
+      "cmdb_ci": {
+        "display_value": "NAV 13 Support",
+        "link": "https://fettest.service-now.com/api/now/table/cmdb_ci/7ebfc8a00fa6a100014d5d78a1050ebf"
+      },
+      "description": "",
+      "priority": "5 - Very Low",
+      "number": "ENHC0010022",
+      "sys_id": "90d9a481dbc21700f731622dca961910",
+      "correlation_id": "",
+      "state": "Draft",
+      "work_notes": "",
+      "assigned_to": "",
+      "u_change_request": ""
+    },
+    {
+      "u_fet_company2.u_product_line": "Drilling",
+      "short_description": "TEST: TEST TEST",
+      "u_fet_company2": {
+        "display_value": "ADI",
+        "link": "https://fettest.service-now.com/api/now/table/core_company/071a6f6a0f866100014d5d78a1050ed3"
+      },
+      "u_module3": {
+        "display_value": "Avatax",
+        "link": "https://fettest.service-now.com/api/now/table/u_system_module/966349a90f3b9200797e6798b1050e44"
+      },
+      "assignment_group": "",
+      "u_fet_company2.u_segment": "Drilling & Subsea",
+      "cmdb_ci": {
+        "display_value": "NAV 5 Support",
+        "link": "https://fettest.service-now.com/api/now/table/cmdb_ci/7abfc8a00fa6a100014d5d78a1050ebf"
+      },
+      "description": "",
+      "priority": "3 - Medium",
+      "number": "ENHC0010023",
+      "sys_id": "3a3b6c05dbc21700f731622dca961914",
+      "correlation_id": "",
+      "state": "Draft",
+      "work_notes": "",
+      "assigned_to": "",
+      "u_change_request": ""
+    },
+    {
+      "u_fet_company2.u_product_line": "Subsea",
+      "short_description": "Job Number Field not displaying correct information on printed PO document",
+      "u_fet_company2": {
+        "display_value": "Forum Dynacon",
+        "link": "https://fettest.service-now.com/api/now/table/core_company/b16501e90f3b9200797e6798b1050ea9"
+      },
+      "u_module3": {
+        "display_value": "Purchasing",
+        "link": "https://fettest.service-now.com/api/now/table/u_system_module/d26349a90f3b9200797e6798b1050e45"
+      },
+      "assignment_group": "",
+      "u_fet_company2.u_segment": "Drilling & Subsea",
+      "cmdb_ci": {
+        "display_value": "NAV 13 Support",
+        "link": "https://fettest.service-now.com/api/now/table/cmdb_ci/7ebfc8a00fa6a100014d5d78a1050ebf"
+      },
+      "description": "Job Number field on printed purchase order document (Purchase Order Form E (50030)) appears to be pulling from the Job Type field on the table instead of the Job Number.\r\nSee attached documents.",
+      "priority": "4 - Low",
+      "number": "ENHC0010024",
+      "sys_id": "cccdbeaedbc6d700f731622dca9619bf",
+      "correlation_id": "",
+      "state": "Draft",
+      "work_notes": "",
+      "assigned_to": "",
+      "u_change_request": ""
+    },
+    {
+      "u_fet_company2.u_product_line": "Drilling",
+      "short_description": "Avalara CommitTax call not completing - CU 80",
+      "u_fet_company2": {
+        "display_value": "FOT-US Distribution",
+        "link": "https://fettest.service-now.com/api/now/table/core_company/0e6501e90f3b9200797e6798b1050ead"
+      },
+      "u_module3": {
+        "display_value": "Avatax",
+        "link": "https://fettest.service-now.com/api/now/table/u_system_module/966349a90f3b9200797e6798b1050e44"
+      },
+      "assignment_group": "",
+      "u_fet_company2.u_segment": "Drilling & Subsea",
+      "cmdb_ci": {
+        "display_value": "NAV 13 Support",
+        "link": "https://fettest.service-now.com/api/now/table/cmdb_ci/7ebfc8a00fa6a100014d5d78a1050ebf"
+      },
+      "description": "Avalara CommitTax call not completing and resulting in the invoice remaining in uncommitted status on the avalara console.\r\n\r\nAvalara Ticket Info\r\nreference 15377235. Include code ref:_00D30Psz._5000b1ClL1e:ref to provide additional information on this open issue via email",
+      "priority": "4 - Low",
+      "number": "ENHC0010025",
+      "sys_id": "d26e32eedbc6d700f731622dca96193c",
+      "correlation_id": "",
+      "state": "Draft",
+      "work_notes": "",
+      "assigned_to": "",
+      "u_change_request": ""
+    },
+    {
+      "u_fet_company2.u_product_line": "Downhole",
+      "short_description": "Testing Bug Enhancement Option 1",
+      "u_fet_company2": {
+        "display_value": "Cannon Services",
+        "link": "https://fettest.service-now.com/api/now/table/core_company/041160150fdd820075e35d78a1050e93"
+      },
+      "u_module3": {
+        "display_value": "Inventory",
+        "link": "https://fettest.service-now.com/api/now/table/u_system_module/de6349a90f3b9200797e6798b1050e44"
+      },
+      "assignment_group": "",
+      "u_fet_company2.u_segment": "Completions",
+      "cmdb_ci": {
+        "display_value": "NAV 13 Support",
+        "link": "https://fettest.service-now.com/api/now/table/cmdb_ci/7ebfc8a00fa6a100014d5d78a1050ebf"
+      },
+      "description": "How do I get uninterrupted complete/full access.",
+      "priority": "5 - Very Low",
+      "number": "ENHC0010026",
+      "sys_id": "9232a36edb8e970033e7eda5ca961985",
+      "correlation_id": "",
+      "state": "Draft",
+      "work_notes": "",
+      "assigned_to": "",
+      "u_change_request": ""
+    }
+  ]
+}
